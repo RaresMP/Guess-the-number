@@ -6,15 +6,13 @@ The program generates a random number between 0 and 9 using the randrange functi
 
 The program prints the random number to the console.
 
-The program initializes the count variable to 3, which represents the number of attempts the user has left to guess the number.
+Initializes the count variable to 3, which represents the number of attempts the user has left to guess the number.
 
-The program enters a while loop that will repeat until either the user correctly guesses the number or the user runs out of attempts.
+After that it enters a while loop that will repeat until either the user correctly guesses the number or the user runs out of attempts.
 
 Within the while loop, the program prints the number of attempts the user has left.
 
-The program prompts the user to enter a number using the input function and converts the input to a integer using the int function.
-
-The program checks whether the user's guess matches the random number. If so, it prints a message indicating that the user has correctly guessed the number and exits the while loop.
+The program prompts the user to enter a number using the input function and converts the input to a integer using the int function and then checks whether the user's guess matches the random number, if so, it prints a message indicating that the user has correctly guessed the number and exits the while loop.
 
 If the user's guess is not correct, the program provides feedback to the user by indicating whether the number is higher or lower than their guess.
 
