@@ -1,6 +1,7 @@
 # Guess-the-number
 
 Number Guessing Game
+
 A simple number guessing game that generates a random number between 0 and 9 and allows the user to guess the number. The user has 3 attempts to guess the number correctly. If the user guesses the number correctly, the program prints a message indicating that the user has won. If the user runs out of attempts, the program prints a message indicating that the user has lost.
 
 How to use
